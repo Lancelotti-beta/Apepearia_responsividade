@@ -1,2 +1,5 @@
-# Apepearia_responsividade
-Projeto da alura, desenvolvendo uma página acessível para aprender sobre acessibilidade na web &amp; planejamento na estruturação de uma página inclusiva | Curso de acessibilidade - @Alura
+# Apepearia responsividade - Alura Curso
+
+## projeto do curso de acessibilidade da Alura
+
+ Apepearia é uma pagina desenvolvida desde o seu design até o 'código' para ser inclusiva a diversos plubicos com as melhores praticas, visando o melhor entendimento entre Cliente e Produto || Serviço
